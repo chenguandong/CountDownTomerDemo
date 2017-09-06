@@ -2,6 +2,7 @@
 CountDownTomer 实现倒计时Demo
 
 ```
-![image](demo.gif)
+
+<img src="demo.gif" width="270" height="480"/>
 ```
 
