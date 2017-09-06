@@ -1,8 +1,6 @@
 # CountDownTomerDemo
 CountDownTomer 实现倒计时Demo
 
-```
+![alt text](/show.gif)
 
-<img src="show.gif" width="270" height="480"/>
-```
 
